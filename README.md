@@ -24,6 +24,7 @@ Hello! I'm a freelancer
 - Supporter at Rua Hideout
 - Developer at Pluto Cheat
 - Ex-dev at Shouko Collective
+- Owner/developer of Bocchi World
 
 ## 🛠️ Languages and Tools
 - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
