@@ -5,6 +5,7 @@ Hello! I'm a freelancer
 ## 🔭 Current Projects
 - **UI lib designer, Developer, Owner of Bocchi World**
 - **Rejoin Tool Developer at JG**
+- **Rejoin Tool Developer/ Administrator at Rokid Manager**
 
 ## 🛠️ Skills
 - 2 years experience with Python
@@ -25,6 +26,7 @@ Hello! I'm a freelancer
 - Developer at Pluto Cheat
 - Ex-dev at Shouko Collective
 - Owner/developer of Bocchi World
+- Admin/Developer at Rokid Manager
 
 ## 🛠️ Languages and Tools
 - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
