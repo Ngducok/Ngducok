@@ -37,16 +37,19 @@
     </a>
 </p>
     
-```
-    ____              __  _ _ 
-   / __ \__  _______/ /_(_|_)
-  / / / / / / / ___/ __/ / / 
- / /_/ / /_/ (__  ) /_/ / /  
-/_____/\__,_/____/\__/_/_/   
-                             
-```
+
 
 <h1 align="center"></h1>
+
+<h3 align="center">Current Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CNN-Food%20Recognition%20%26%20Calories%20Classification-FF6F61?style=for-the-badge&logoColor=white" alt="Food Recognition" />
+  <img src="https://img.shields.io/badge/CV-Peanuts%20Diseases%20Recognition-6EAE3D?style=for-the-badge&logoColor=white" alt="Peanuts Diseases" />
+  <img src="https://img.shields.io/badge/C++-New%20Language%20Using%20Decompiler-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="New Language" />
+  <img src="https://img.shields.io/badge/System-Automation%20Project-0078D7?style=for-the-badge&logoColor=white" alt="Automation System" />
+  <img src="https://img.shields.io/badge/NLP-Chatbot%20AI%20with%20Deep%20Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Chatbot AI" />
+</p>
 
 <h3 align="center">Most Used Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" alt="High Voltage" width="25" height="25" /></h3>
 
