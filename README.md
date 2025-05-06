@@ -73,7 +73,16 @@ After years of working with various hardware configurations (Arduino, custom PCB
 </div>
 
 <div align="center">
+  <h3>Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+  
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 90%" />
+    <img src="https://img.shields.io/badge/LuaU-85%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LuaU 85%" />
+    <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 75%" />
+    <img src="https://img.shields.io/badge/C++-65%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ 65%" />
+    <img src="https://img.shields.io/badge/Ruby-50%25-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby 50%" />
+  </div>
 </div>
 
 ## Technical Expertise
