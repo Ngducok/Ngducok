@@ -1,44 +1,38 @@
-<div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" alt="Dustii Banner"/>
-</div>
+# Hi, I'm Dustii <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" width="28" alt="Otter">
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20hand.png" width="24px" alt="hi"> , I'm Dustii <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" width="50" alt="Otter"></h1>
-<h3 align="center">Robot & AI Developer, NLP Specialist, AI Researcher</h3>
+**Pronouns:** he/him
 
-<p align="center">
-    <i>Building intelligent systems one line of code at a time</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Robot.png" alt="Robot" width="25" height="25" />
-</p>
+Robot & AI Developer | NLP Specialist | AI Researcher
 
-<p align="center">
-    <a href="#">
-        <img src="https://img.shields.io/badge/Dustii%236969-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-</p>
+---
 
-<h3 align="center">Technical Expertise <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20disk.png" alt="Computer Disk" width="25" height="25" /></h3>
+**About me:**
+- 🏆 Top 3 finalist in the UEH Robot Dancing Competition
+- 🤖 Building intelligent systems one line of code at a time
+- 🤝 Passionate about robotics, AI, and automation
+- 📚 Always learning and exploring new tech
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+**Skills:**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> C++, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="20"/> Lua
+- 🧠 Machine Learning, Deep Learning, NLP
+- 👁️ Computer Vision, Automation, Embedded Systems
+- 🌐 Web: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> Next.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20"/> Nuxt.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20"/> TailwindCSS, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20"/> Flask
+- 🗄️ Databases: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20"/> SQLite
+- 🛠️ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="20"/> Cloudflare, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="20"/> Heroku, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="20"/> Arduino
 
-<h3 align="center">Current Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></h3>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CNN-Food%20Recognition%20%26%20Calories%20Classification-FF6F61?style=for-the-badge&logoColor=white" alt="Food Recognition" />
-  <img src="https://img.shields.io/badge/CV-Peanuts%20Diseases%20Recognition-6EAE3D?style=for-the-badge&logoColor=white" alt="Peanuts Diseases" />
-  <img src="https://img.shields.io/badge/C++-New%20Language%20Using%20Decompiler-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="New Language" />
-  <img src="https://img.shields.io/badge/System-Automation%20Project-0078D7?style=for-the-badge&logoColor=white" alt="Automation System" />
-  <img src="https://img.shields.io/badge/NLP-Chatbot%20AI%20with%20Deep%20Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Chatbot AI" />
-</p>
+**Current Projects:**
+- 🍔 Food Recognition & Calories Classification (CNN)
+- 🥜 Peanuts Diseases Recognition (CV)
+- 🛠️ New Language Using Decompiler (C++)
+- ⚙️ Automation Project (System)
+- 💬 Chatbot AI with Deep Learning (NLP)
 
-<h3 align="center">Most Used Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" alt="High Voltage" width="25" height="25" /></h3>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 90%" />
-  <img src="https://img.shields.io/badge/LuaU-85%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LuaU 85%" />
-  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 75%" />
-  <img src="https://img.shields.io/badge/C++-65%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ 65%" />
-  <img src="https://img.shields.io/badge/Ruby-50%25-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby 50%" />
-</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
-  <i>Engineering intelligence, one system at a time.</i>
-</p> 
+---
+
+*Engineering intelligence, one system at a time.* 
