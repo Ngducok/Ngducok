@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://img.shields.io/badge/Dustii%236969-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+        <img src="https://img.shields.io/badge/Dustii%20311-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
         
