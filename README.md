@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" alt="Dustii Banner"/>
-</div>
+
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20hand.png" width="24px" alt="hi"> , I'm Dustii</h1>
 <h3 align="center">Robot & AI Developer, NLP Specialist, AI Researcher</h3>
