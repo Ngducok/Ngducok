@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20hand.png" width="24px" alt="hi"> , I'm Dustii</h1>
+<h1 align="center">Hi, I'm Dustii</h1>
 <h3 align="center">Robot & AI Developer, NLP Specialist, AI Researcher</h3>
 
 <p align="center">
