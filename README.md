@@ -9,13 +9,14 @@
         <img src="https://img.shields.io/badge/Dustii%230311-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
-<h1 align="center"><img align="left" src="https://orhun.dev/img/crow.png"></h1>
+<h1 align="center"><img align="left" src="https://e7.pngegg.com/pngimages/171/858/png-clipart-pixel-art-drawing-pixel-art-cartoon-my-neighbor-totoro.png"></h1>
         <center>
             <em>- This is actually the first quote in your image, and it fits your description well! "I have no special talent. I am only passionately curious." - While it mentions curiosity, the core is the lack of "special talent". </em>
         </center>
 <h1 align="center"></h1>
         <center>
-            <em>When I was sixteen, I won a great victory. I felt in that moment I would live to be a <b>hundred</b>. Now I know I shall not see thirty. None of us know our end, really, or what hand will guide us there. A king may move a man, a father may claim a son, but that man can also move himself, and only then does that man truly begin his own game. Remember that howsoever you are played or by whom, your soul is in your keeping alone, even though those who presume to play you be kings or men of power. When you stand before God, you cannot say, "But I was told by others to do thus," or that virtue was not convenient at the time. This will not suffice. Remember that.<br><br>- King Baldwin IV</em>    
+            <em>"The best way to predict the future is to create it." - Peter Drucker (often attributed to Abraham Lincoln)
+</em>    
         </center>
 <h1 align="center"></h1>
 <h3 align="center">I only know these things<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /></h3>
