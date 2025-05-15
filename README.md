@@ -2,7 +2,7 @@
 
 **Pronouns:** he/him
 
-Robot & AI Developer | NLP Specialist | AI Researcher
+LuaU/Lua Developer, Python developer, Front-end Web developer,...
 
 ---
 
