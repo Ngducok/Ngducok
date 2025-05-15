@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Dustii%230311-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
-<h1 align="center"><img align="left" src="https://e7.pngegg.com/pngimages/171/858/png-clipart-pixel-art-drawing-pixel-art-cartoon-my-neighbor-totoro.png"></h1>
+<h1 align="center"><img align="left" src="https://orhun.dev/img/crow.png"></h1>
         <center>
             <em>- This is actually the first quote in your image, and it fits your description well! "I have no special talent. I am only passionately curious." - While it mentions curiosity, the core is the lack of "special talent". </em>
         </center>
