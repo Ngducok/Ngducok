@@ -11,7 +11,7 @@
 </p>
 <h1 align="center"><img align="left" src="https://orhun.dev/img/crow.png"></h1>
         <center>
-            <em>-  "I have no special talent. I am only passionately curious." - While it mentions curiosity, the core is the lack of "special talent". </em>
+            <em>-  "I have no special talent. I am only passionately curious.". </em>
         </center>
 <h1 align="center"></h1>
         <center>
