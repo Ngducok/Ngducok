@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Dustii</h1>
-<h3 align = "center"> LuaU/Lua Developer, Front-end developer, python developer</h3>
+<h3 align = "center"> LuaU/Lua Developer, Back-end Developer, UI/UX designer, AI enthusiast, NLP researcher</h3>
 
 <p align="center">
     <i>Love to making tools, scripts </i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" />
