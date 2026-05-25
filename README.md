@@ -1,6 +1,6 @@
 <div align="center" style="margin-bottom:40px;">
 
-<img src="assets/kuromi.jpg" width="168" alt="Kuromi" />
+<img src="assets/kuromi.png" width="168" alt="Kuromi" />
 
 <p align="center">
   <img src="svgs/header.svg" width="800" alt="Hello World, i'm Dustii" />
