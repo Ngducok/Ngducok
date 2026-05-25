@@ -22,7 +22,7 @@
         dominant-baseline="middle"
         text-anchor="middle">
     <tspan>AI engineer · </tspan>
-    <tspan fill="url(#subtitleGrad)">Backend Developer</tspan>
+    <tspan fill="url(#subtitleGrad)">Lua/LuaU Developer</tspan>
     <tspan> · Bot Developer</tspan>
   </text>
 </svg>
