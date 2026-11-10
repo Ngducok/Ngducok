@@ -96,27 +96,6 @@
   <text x="800" y="396" text-anchor="end" fill="#766d76" font-size="10.5"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif">public repositories</text>
 
-  <!-- Star tile -->
-  <rect x="40" y="408" width="363" height="56" rx="12" fill="#181417" stroke="#44313d" stroke-width="1"/>
-  <g transform="translate(58 424)" fill="none" stroke="#f28ab2" stroke-width="1.5" stroke-linejoin="round">
-    <path d="M11 1 L13.8 7.4 L20.8 8 L15.5 12.7 L17.1 19.4 L11 15.8 L4.9 19.4 L6.5 12.7 L1.2 8 L8.2 7.4 Z"/>
-  </g>
-  <text x="92" y="442" fill="#d8cbd3" font-size="15" font-weight="500"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif">Total Stars</text>
-  <text id="total-stars-value" x="378" y="444" text-anchor="end" fill="#f4a3c3"
-        font-size="27" font-weight="650" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif">—</text>
-
-  <!-- Repo tile -->
-  <rect x="437" y="408" width="363" height="56" rx="12" fill="#181417" stroke="#44313d" stroke-width="1"/>
-  <g transform="translate(455 423)" fill="none" stroke="#f28ab2" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="3" y="1.5" width="16" height="20" rx="3"/>
-    <path d="M8 6 H15 M8 11 H15 M8 16 H13"/>
-  </g>
-  <text x="490" y="442" fill="#d8cbd3" font-size="15" font-weight="500"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif">Total Repositories</text>
-  <text id="total-repositories-value" x="774" y="444" text-anchor="end" fill="#f4a3c3"
-        font-size="27" font-weight="650" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif">—</text>
-
   <style>
     .section { fill: #f28ab2; font: 600 16px system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; }
     .detail { fill: #bfc0c3; font: 14px system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; }
