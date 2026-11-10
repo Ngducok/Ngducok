@@ -32,7 +32,7 @@
 
   <!-- Title row -->
   <g transform="translate(24,22)">
-    <!-- AI / architecture icon -->
+    <!-- AI chip icon -->
     <rect x="2" y="2" width="14" height="14" rx="4"
           fill="#111111" stroke="#f28ab2" stroke-width="1" />
     <circle cx="9" cy="9" r="2.4" fill="#34353a" stroke="#ffc1d8" stroke-width="0.8"/>
@@ -61,7 +61,7 @@
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="10.5"
         font-style="italic">
-    Building backend systems, AI architectures, and tools that turn ideas into products.
+    Building AI systems, embedded solutions, and practical tools for real-world applications.
   </text>
 
   <!-- Divider -->
@@ -71,28 +71,28 @@
   <text x="24" y="104"
         fill="#bfc0c3"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
-        font-size="12">
-    • Design reliable backend systems, APIs, and databases
+        font-size="11.8">
+    • Build computer vision pipelines for detection and classification
   </text>
 
   <text x="24" y="126"
         fill="#bfc0c3"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
-        font-size="12">
-    • Train, fine-tune, and evaluate AI models for real use cases
+        font-size="11.8">
+    • Train, fine-tune, and evaluate AI models for practical use cases
   </text>
 
   <text x="24" y="148"
         fill="#bfc0c3"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
-        font-size="12">
-    • Design AI architectures, workflows, and automation pipelines
+        font-size="11.8">
+    • Deploy optimized models on edge and embedded devices
   </text>
 
   <text x="24" y="170"
         fill="#bfc0c3"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
-        font-size="12">
-    • Build internal tools that improve speed, quality, and scale
+        font-size="11.8">
+    • Create tools and workflows that improve speed, quality, and scale
   </text>
 </svg>
