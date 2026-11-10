@@ -57,8 +57,8 @@
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="10.5"
         font-style="italic">
-    "I'm not just learning to code.
-    <tspan x="24" dy="13">I'm learning to turn ideas, curiosity, and problems into products."</tspan>
+    "I want to build practical AI systems
+    <tspan x="24" dy="13">that connect software, intelligence, and real-world impact."</tspan>
   </text>
 
   <!-- Divider -->
@@ -69,27 +69,27 @@
         fill="#bfc0c3"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Build useful AI-powered products that solve real problems
+    • Build practical AI solutions that solve real-world problems
   </text>
 
   <text x="24" y="134"
         fill="#bfc0c3"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Grow as an AI engineer and backend developer
+    • Grow in AI engineering, embedded systems, and Edge AI
   </text>
 
   <text x="24" y="154"
         fill="#bfc0c3"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Turn personal interests into clean, scalable systems
+    • Turn ideas into clean, efficient, and deployable products
   </text>
   
   <text x="24" y="174"
         fill="#bfc0c3"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Write maintainable code with thoughtful abstraction
+    • Keep learning by building systems that are useful and scalable
   </text>
 </svg>
