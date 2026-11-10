@@ -1,175 +1,96 @@
-<svg width="840" height="380" viewBox="0 0 840 380" xmlns="http://www.w3.org/2000/svg">
+<svg width="840" height="380" viewBox="0 0 840 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="cardTitle cardDesc">
+  <title id="cardTitle">Ngducok - Tech Stack</title>
+  <desc id="cardDesc">Programming, AI and computer vision, model deployment, embedded systems, robotics and development tools.</desc>
   <defs>
     <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#f28ab2">
-        <animate attributeName="stop-color"
-                 values="#f28ab2; #34353a; #2f3033; #f28ab2"
-                 dur="10s"
-                 repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#f28ab2;#34353a;#2f3033;#f28ab2" dur="10s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#2f3033">
-        <animate attributeName="stop-color"
-                 values="#2f3033; #f28ab2; #34353a; #2f3033"
-                 dur="10s"
-                 repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#2f3033;#f28ab2;#34353a;#2f3033" dur="10s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
-
     <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f28ab2"/>
-      <stop offset="55%" stop-color="#ffc1d8"/>
-      <stop offset="100%" stop-color="#f7f7f7"/>
+      <stop offset="0%" stop-color="#f28ab2" />
+      <stop offset="55%" stop-color="#ffc1d8" />
+      <stop offset="100%" stop-color="#f7f7f7" />
     </linearGradient>
   </defs>
 
-  <!-- Border -->
-  <rect x="1.5" y="1.5" width="837" height="373" rx="24"
-        fill="none"
-        stroke="url(#borderGradient)"
-        stroke-width="2"/>
-
-  <!-- Background -->
+  <!-- Card -->
+  <rect x="1.5" y="1.5" width="837" height="373" rx="24" fill="none" stroke="url(#borderGradient)" stroke-width="2" />
   <rect x="4" y="4" width="832" height="370" rx="22" fill="#111111" />
 
-  <!-- Title -->
-  <text x="40" y="60"
-        fill="url(#titleGradient)"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif"
-        font-size="32"
-        font-weight="600">
-    Tech Stack
-  </text>
-
-  <text x="40" y="82"
-        fill="#bfc0c3"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
-        font-size="13"
-        font-style="italic">
-    Tools I use to build backend systems, AI models, automation flows, and production-ready products.
-  </text>
-
-  <!-- Column separator -->
-  <line x1="420" y1="100" x2="420" y2="350" stroke="#2f3033" stroke-width="1" />
-
-  <!-- Languages icon -->
-  <g transform="translate(40,106)">
-    <rect x="0" y="0" width="18" height="18" rx="4" fill="#111111" stroke="#f28ab2" stroke-width="1"/>
-    <path d="M7 4 L4 9 L7 14" stroke="#ffc1d8" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M11 4 L14 9 L11 14" stroke="#ffc1d8" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Heading -->
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif">
+    <text x="40" y="60" fill="url(#titleGradient)" font-size="32" font-weight="600">Tech Stack</text>
+    <text x="40" y="82" fill="#bfc0c3" font-size="13" font-style="italic">Building AI applications, from model development to real-world edge deployment.</text>
   </g>
+  <line x1="420" y1="102" x2="420" y2="351" stroke="#2f3033" stroke-width="1" />
 
-  <text x="70" y="120"
-        fill="#f28ab2"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
-        font-size="16"
-        font-weight="600">
-    Languages
-  </text>
-  <text x="70" y="142"
-        fill="#bfc0c3"
-        font-size="14"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    Python · C++ · JavaScript · TypeScript
-  </text>
-
-  <!-- Backend & APIs icon -->
-  <g transform="translate(40,181)">
-    <rect x="0" y="0" width="18" height="18" rx="3" fill="#111111" stroke="#f28ab2" stroke-width="1"/>
-    <rect x="3" y="3" width="12" height="4" rx="1" fill="#34353a" stroke="#f28ab2" stroke-width="0.8"/>
-    <rect x="3" y="8" width="12" height="4" rx="1" fill="#34353a" stroke="#f28ab2" stroke-width="0.8"/>
-    <rect x="3" y="13" width="12" height="4" rx="1" fill="#34353a" stroke="#f28ab2" stroke-width="0.8"/>
+  <!-- LEFT: Programming -->
+  <g transform="translate(40,106)" stroke="#f28ab2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="18" height="18" rx="4" stroke-width="1" />
+    <path d="M7 4 L4 9 L7 14 M11 4 L14 9 L11 14" stroke="#ffc1d8" stroke-width="1.3" />
   </g>
+  <text x="70" y="120" class="section">Programming</text>
+  <text x="70" y="144" class="detail">Python · C · C++ · Lua</text>
 
-  <text x="70" y="195"
-        fill="#f28ab2"
-        font-size="16"
-        font-weight="600"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    Backend &amp; APIs
-  </text>
-  <text x="70" y="216" fill="#bfc0c3" font-size="14"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    Node.js · Bun · Flask
-  </text>
-  <text x="70" y="234" fill="#bfc0c3" font-size="14"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    REST APIs · Backend systems
-  </text>
-
-  <!-- Databases icon -->
-  <g transform="translate(40,273)">
-    <rect x="0" y="1" width="18" height="16" rx="3" fill="#111111" stroke="#f28ab2" stroke-width="1"/>
-    <ellipse cx="9" cy="4" rx="6" ry="2.5" fill="#34353a" stroke="#ffc1d8" stroke-width="0.8"/>
-    <rect x="3" y="4" width="12" height="6" fill="#34353a" stroke="#ffc1d8" stroke-width="0.8"/>
-    <ellipse cx="9" cy="10" rx="6" ry="2.5" fill="#34353a" stroke="#ffc1d8" stroke-width="0.8"/>
+  <!-- LEFT: AI & Computer Vision -->
+  <g transform="translate(40,195)" fill="none" stroke="#f28ab2" stroke-width="1.1">
+    <rect width="18" height="18" rx="4" />
+    <circle cx="5" cy="6" r="2" fill="#ffc1d8" stroke="none" />
+    <circle cx="13" cy="6" r="2" fill="#ffc1d8" stroke="none" />
+    <circle cx="9" cy="13" r="2" fill="#f28ab2" stroke="none" />
+    <path d="M6 7.5 L8 11 M12 7.5 L10 11" />
   </g>
+  <text x="70" y="209" class="section">AI &amp; Computer Vision</text>
+  <text x="70" y="232" class="detail">PyTorch · OpenCV · YOLOv8 · NumPy</text>
+  <text x="70" y="252" class="detail">Object detection · Image classification</text>
 
-  <text x="70" y="287"
-        fill="#f28ab2"
-        font-size="16"
-        font-weight="600"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    Databases
-  </text>
-  <text x="70" y="308" fill="#bfc0c3" font-size="14"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    MySQL · SQLite
-  </text>
-
-  <!-- Infra & DevOps icon -->
-  <g transform="translate(444,106)">
-    <rect x="0" y="0" width="18" height="18" rx="4" fill="#111111" stroke="#f28ab2" stroke-width="1"/>
-    <circle cx="9" cy="9" r="4" fill="#34353a" stroke="#ffc1d8" stroke-width="0.8"/>
-    <circle cx="9" cy="9" r="1.5" fill="#f28ab2"/>
-    <line x1="9" y1="3" x2="9" y2="0.5" stroke="#f28ab2" stroke-width="0.8"/>
-    <line x1="15" y1="9" x2="17.5" y2="9" stroke="#f28ab2" stroke-width="0.8"/>
-    <line x1="9" y1="15" x2="9" y2="17.5" stroke="#f28ab2" stroke-width="0.8"/>
-    <line x1="3" y1="9" x2="0.5" y2="9" stroke="#f28ab2" stroke-width="0.8"/>
+  <!-- LEFT: AI Deployment -->
+  <g transform="translate(40,287)" fill="none" stroke="#f28ab2" stroke-width="1">
+    <rect width="18" height="18" rx="4" />
+    <rect x="4.5" y="4.5" width="9" height="9" rx="1.5" stroke="#ffc1d8" />
+    <path d="M2 6 H4.5 M2 12 H4.5 M13.5 6 H16 M13.5 12 H16 M6 2 V4.5 M12 2 V4.5 M6 13.5 V16 M12 13.5 V16" />
   </g>
+  <text x="70" y="301" class="section">AI Deployment</text>
+  <text x="70" y="324" class="detail">ONNX · TinyML · Edge inference</text>
+  <text x="70" y="344" class="detail">Model optimization · Evaluation</text>
 
-  <text x="474" y="120"
-        fill="#f28ab2"
-        font-size="16"
-        font-weight="600"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    Infra &amp; DevOps
-  </text>
-  <text x="474" y="142" fill="#bfc0c3" font-size="14"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    Kubernetes · Docker
-  </text>
-  <text x="474" y="160" fill="#bfc0c3" font-size="14"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    GitHub Actions · CI/CD
-  </text>
-
-  <!-- ML / Vision icon -->
-  <g transform="translate(444,206)">
-    <rect x="0" y="0" width="18" height="18" rx="4" fill="#111111" stroke="#f28ab2" stroke-width="1"/>
-    <circle cx="5" cy="5" r="1.6" fill="#ffc1d8"/>
-    <circle cx="13" cy="5" r="1.6" fill="#ffc1d8"/>
-    <circle cx="9" cy="12" r="1.6" fill="#f28ab2"/>
-    <line x1="5" y1="5" x2="9" y2="12" stroke="#f28ab2" stroke-width="0.8"/>
-    <line x1="13" y1="5" x2="9" y2="12" stroke="#f28ab2" stroke-width="0.8"/>
+  <!-- RIGHT: Embedded Systems -->
+  <g transform="translate(444,106)" fill="none" stroke="#f28ab2" stroke-width="1">
+    <rect width="18" height="18" rx="4" />
+    <rect x="5" y="5" width="8" height="8" rx="1.5" stroke="#ffc1d8" />
+    <path d="M1 6 H5 M1 12 H5 M13 6 H17 M13 12 H17 M6 1 V5 M12 1 V5 M6 13 V17 M12 13 V17" />
   </g>
+  <text x="474" y="120" class="section">Embedded &amp; Edge Devices</text>
+  <text x="474" y="144" class="detail">ESP32-S3 · STM32 · FreeRTOS</text>
+  <text x="474" y="164" class="detail">ESP-IDF · Arduino · C/C++</text>
 
-  <text x="474" y="222"
-        fill="#f28ab2"
-        font-size="16"
-        font-weight="600"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    ML / Vision
-  </text>
-  <text x="474" y="244"
-        fill="#bfc0c3"
-        font-size="14"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    PyTorch · OpenCV · cv2
-  </text>
-  <text x="474" y="262"
-        fill="#bfc0c3"
-        font-size="14"
-        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif">
-    NumPy · Pandas
-  </text>
+  <!-- RIGHT: Robotics & Protocols -->
+  <g transform="translate(444,195)" fill="none" stroke="#f28ab2" stroke-width="1">
+    <rect width="18" height="18" rx="4" />
+    <circle cx="9" cy="9" r="4.6" stroke="#ffc1d8" />
+    <circle cx="9" cy="9" r="1.4" fill="#f28ab2" stroke="none" />
+    <path d="M9 0.5 V4.4 M9 13.6 V17.5 M0.5 9 H4.4 M13.6 9 H17.5" />
+  </g>
+  <text x="474" y="209" class="section">Robotics &amp; Interfaces</text>
+  <text x="474" y="232" class="detail">ROS / ROS2 · UART · I²C · SPI</text>
+  <text x="474" y="252" class="detail">PWM · ADC · Sensor integration</text>
+
+  <!-- RIGHT: Development Tools -->
+  <g transform="translate(444,287)" fill="none" stroke="#f28ab2" stroke-width="1">
+    <rect width="18" height="18" rx="4" />
+    <path d="M3 5 H15 M3 9 H15 M3 13 H11" stroke="#ffc1d8" stroke-width="1.3" stroke-linecap="round" />
+    <circle cx="14" cy="13" r="1.4" fill="#f28ab2" stroke="none" />
+  </g>
+  <text x="474" y="301" class="section">Development Tools</text>
+  <text x="474" y="324" class="detail">Git / GitHub · Linux / Ubuntu</text>
+  <text x="474" y="344" class="detail">EasyEDA · Proteus · AutoCAD · Inventor</text>
+
+  <style>
+    .section { fill: #f28ab2; font: 600 16px system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; }
+    .detail { fill: #bfc0c3; font: 14px system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; }
+  </style>
 </svg>
