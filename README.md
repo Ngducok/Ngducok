@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.png" width="690" alt="Hello! I'm Dustii — I'm just curious about everything :)" />
+  <img src="./assets/header.svg" width="690" alt="Hello! I'm Dustii — I'm just curious about everything :)" />
 </div>
 
 I'm **Nguyen Minh Duc (Dustii)**, a **Robotics & AI Engineering student at UEH** (2024–2027), currently seeking an **AI Engineer internship**.
